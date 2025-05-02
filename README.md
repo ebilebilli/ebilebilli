@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Abil Abilli
 
-<!--
-**ebilebilli/ebilebilli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Junior Python/Django Developer**  
+📍 Baku, Azerbaijan | ebilebilli3@gmail.com
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Skills
+
+- Python, OOP, Django, DRF, REST APIs  
+- JWT Authentication, Celery + Redis, Caching (django-redis)  
+- PostgreSQL, Atomic Transactions, Logging (Sentry)  
+- Elasticsearch + Kibana, Docker  
+- Git & GitHub
+
+---
+
+## 🚀 Experience
+
+- Developed APIs with JWT & DRF  
+- Built async tasks using Celery and Redis  
+- Optimized performance with caching (40% gain)  
+- Deployed and monitored services using Docker, Elasticsearch, and Kibana
+
+## 📞 Contact
+
+📱 +994 051 390 19 50  
+🔗 [GitHub](https://github.com/ebilebilli)
