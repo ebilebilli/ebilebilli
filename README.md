@@ -37,6 +37,7 @@
 ## 🚀 Experience
 
 ✅ Developed REST APIs using **Django Rest Framework**  
+✅ Built basic GraphQL APIs using Graphene-Django
 ✅ Implemented **JWT Authentication**, **Celery** background tasks  
 ✅ Boosted performance by 40% using **django-redis caching**  
 ✅ Used **PostgreSQL**, **Sentry Logging**, and **Atomic Transactions**  
