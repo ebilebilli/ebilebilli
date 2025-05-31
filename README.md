@@ -55,7 +55,8 @@ Advanced course focused on Python, Django, DRF, and production-ready backend dev
 ## 📬 Contact
 
 - 📱 **+994 051 390 19 50**  
-- 💼 [GitHub](https://github.com/ebilebilli)  
+- 💼 [GitHub](https://github.com/ebilebilli)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/%C9%99bil-%C9%99billi-b5812533a/)
 - ✉️ **ebilebilli3@gmail.com**
 
 ---
