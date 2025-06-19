@@ -31,7 +31,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Celery](https://img.shields.io/badge/Celery-37814A?style=flat)
-
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 ---
 
 ## 🚀 Experience
@@ -41,7 +41,8 @@
 ✅ Implemented **JWT Authentication**, **Celery** background tasks  
 ✅ Boosted performance by 40% using **django-redis caching**  
 ✅ Used **PostgreSQL**, **Sentry Logging**, and **Atomic Transactions**  
-✅ Integrated **Elasticsearch + Kibana** with Docker for data indexing & monitoring  
+✅ Integrated **Elasticsearch + Kibana** with Docker for data indexing & monitoring
+✅ Used **AWS S3** for secure and scalable media file storage 
 
 ---
 
