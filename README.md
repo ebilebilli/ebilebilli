@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Abil Abilli</h1>
 
 <p align="center">
-  <b>Junior Python/Django Developer</b>  
+  <b> Python/Django Developer</b>  
 </p>
 
 <p align="center">
@@ -23,6 +23,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![DRF](https://img.shields.io/badge/DRF-ff1709?style=flat&logo=django&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
@@ -35,14 +36,15 @@
 ---
 
 ## 🚀 Experience
-
 ✅ Developed REST APIs using **Django Rest Framework**  
-✅ Built basic GraphQL APIs using Graphene-Django
+✅ Built basic GraphQL APIs using **Graphene-Django**  
 ✅ Implemented **JWT Authentication**, **Celery** background tasks  
 ✅ Boosted performance by 40% using **django-redis caching**  
 ✅ Used **PostgreSQL**, **Sentry Logging**, and **Atomic Transactions**  
-✅ Integrated **Elasticsearch + Kibana** with Docker for data indexing & monitoring
-✅ Used **AWS S3** for secure and scalable media file storage 
+✅ Integrated **Elasticsearch + Kibana** with **Docker** for data indexing & monitoring  
+✅ Built **Docker-based microservices architecture** with **RabbitMQ** for async messaging  
+✅ Used **AWS S3** for secure and scalable media file storage  
+
 
 ---
 
